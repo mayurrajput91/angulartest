@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'proxima_novareg_i';
+	src: url('proxima_nova_reg_it-webfont.woff2') format('woff2'),  url('proxima_nova_reg_it-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+.proximaRI{font-family:"proxima_novareg_i", Helvetica, Arial, sans-serif}
+@font-face {
+	font-family: 'proxima_nova_reg';
+	src: url('proxima_nova_reg-webfont.woff2') format('woff2'),  url('proxima_nova_reg-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+.proximaR{font-family:"proxima_nova_reg", Helvetica, Arial, sans-serif}
+@font-face {
+	font-family: 'proxima_novathin';
+	src: url('proxima_nova_thin-webfont.woff2') format('woff2'),  url('proxima_nova_thin-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+.proximaT{font-family:"proxima_novathin", Helvetica, Arial, sans-serif}
